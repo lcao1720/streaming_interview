@@ -1,0 +1,9 @@
+{"type": "sample", "stationName": "Foster Weather Station", "timestamp": 1672531200000, "temperature": 37.1}
+{"type": "sample", "stationName": "Foster Weather Station", "timestamp": 1672531500000, "temperature": 32.5}
+{"type": "sample", "stationName": "Oak Street Beach", "timestamp": 1672531800000, "temperature": 40.0}
+{"type": "control", "command": "snapshot"}
+{"type": "sample", "stationName": "Oak Street Beach", "timestamp": 1672532000000, "temperature": 35.0}
+{"type": "control", "command": "snapshot"}
+{"type": "control", "command": "reset"}
+{"type": "sample", "stationName": "Foster Weather Station", "timestamp": 1672532100000, "temperature": 42.3}
+{"type": "control", "command": "snapshot"}

@@ -1,0 +1,4 @@
+{"type": "snapshot", "asOf": 1672531800000, "stations": {"Foster Weather Station": {"high": 37.1, "low": 32.5}, "Oak Street Beach": {"high": 40.0, "low": 40.0}}}
+{"type": "snapshot", "asOf": 1672532000000, "stations": {"Foster Weather Station": {"high": 37.1, "low": 32.5}, "Oak Street Beach": {"high": 40.0, "low": 35.0}}}
+{"type": "reset", "asOf": 1672532000000}
+{"type": "snapshot", "asOf": 1672532100000, "stations": {"Foster Weather Station": {"high": 42.3, "low": 42.3}}}
